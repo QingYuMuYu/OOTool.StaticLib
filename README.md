@@ -1,0 +1,1 @@
+# OOTool.StaticBlazor
